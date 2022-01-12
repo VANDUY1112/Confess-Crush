@@ -1,10 +1,7 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Chúc Mừng Năm Mới 2022  ",
+    introTitle: 'Trần Sương Mai',
+    introDesc: `Năm mới chúc Mai thật nhiều sức khỏe, học siêu giỏi và ngày xinh đẹp nhóe! À, nhớ mau ăn chóng lớn nha ♥ haha`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
